@@ -1,7 +1,7 @@
 Pixel Stenography Tool
 
 pixel stenography is an interesting subject, by editing the least important binary values of a pixel you can hide text inside images.
-for example, if you base64 encoded an entire .zip folder you could hide it inside a .png file and it would not exit the file size.
+for example, if you base64 encoded an entire .zip folder you could hide it inside a .png file and it would not edit the file size.
 you can hide essentially anything that can be converted into text inside images, this is essentially a way to hide payloads inside images.
 the payloads are completely undetectable and un-findable unless this tool is used.
 if you want to completely hide a .zip and stop anyone from accessing it, do the following:
